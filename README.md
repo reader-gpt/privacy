@@ -15,13 +15,13 @@ When you use the Extension, we may collect the following information:
 - User Actions: We may collect information about your interactions with the Extension, such as when you trigger a summary or use other features of the Extension. This information is collected only for the purpose of improving the user experience of the Extension and is not sold to any third party.
 - Random ID: Each device is identified by a random ID generated on the client side. This ID is used for analytics purposes only and is not tied to any personally identifiable information.
 
-### ****With whom we share your information?****
+### With whom does the extension share your information?
 
 The user’s prompt and website data is being sent to OpenAI for processing the request. Please refer to [OpenAI’s privacy policy](https://openai.com/policies/privacy-policy) for determining how they used the data shared to them via API.
 
 We use an analytics platform to collect information about how users interact with the Extension. The information collected may include your random ID, device type, and user actions. All this data does not contain any information which can be used to identify a user. This information to improve the Extension and to understand how it is being used. This information is not sold to any third party.
 
-### ****Links to Other Websites****
+### Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
