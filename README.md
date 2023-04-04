@@ -1,9 +1,7 @@
 # ReaderGPT Privacy policy
+> Last updated on April 5, 2023
 
 Effective from April 5, 2023
-
-> Last updated on April 5, 2023
-> 
 
 We take your privacy seriously, and we want to be transparent about how we collect and use your information. This privacy policy explains what information we collect from you when you use the ReaderGPT Chrome Extension (the "Extension"), how we use that information.
 
